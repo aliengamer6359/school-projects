@@ -1,0 +1,13 @@
+body{
+    background-image: url('gifs/gif.gif');
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+    font-family: sans-serif;
+    margin: clamp(100px, 10vw, 150px);
+}
+div{
+    background-color: rgb(10, 10, 10);
+    text-align: center;
+    border-radius: 10px;
+}
